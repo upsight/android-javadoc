@@ -1,0 +1,6 @@
+com.upsight.android
+com.upsight.android.marketplace
+com.upsight.android.marketplace.internal
+com.upsight.android.marketplace.internal.partner
+com.upsight.android.marketplace.internal.partner.data.provider
+com.upsight.android.marketplace.internal.partner.manager
