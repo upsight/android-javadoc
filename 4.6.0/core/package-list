@@ -1,0 +1,10 @@
+com.upsight.android
+com.upsight.android.internal
+com.upsight.android.internal.logger
+com.upsight.android.internal.persistence
+com.upsight.android.internal.persistence.storable
+com.upsight.android.internal.persistence.subscription
+com.upsight.android.internal.util
+com.upsight.android.logger
+com.upsight.android.persistence
+com.upsight.android.persistence.annotation
